@@ -6,7 +6,7 @@ MBA (STEM) Business Analytics | Saint Peter’s University, USA |
 
 ### 🔷 Analytics Toolkit -
 
-| Analytics | Visualization | Enterprise Systems |
+| Data Processing | Visualization | Enterprise Systems |
 |------------------|-------------------|--------------------|
 | SQL (PostgreSQL) | Power BI | Salesforce, Zendesk, ServiceNow, HRX |
 | Python | Tableau | Workday, Kronos, Concur, Fidelity |
