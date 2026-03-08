@@ -1,6 +1,6 @@
 ## Hi, I'm Rableen! 👋
 
-🔷MBA (STEM) Business Analytics Candidate | Saint Peter’s University, NJ, USA
+🔷MBA (STEM) Business Analytics Candidate | Saint Peter’s University, NJ, USA (Expected Graduation: May 2026)
 
 🔷5+ years of Professional Experience in Analytics with global organizations - Accenture, Wipro, and WNS
 
