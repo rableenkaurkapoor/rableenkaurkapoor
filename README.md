@@ -1,4 +1,4 @@
-## Hi, I'm Rableen 👋
+## HI, I'M RABLEEN! 👋
 
 🔷MBA (STEM) Business Analytics Candidate | Saint Peter’s University, New Jersey, United States
 
