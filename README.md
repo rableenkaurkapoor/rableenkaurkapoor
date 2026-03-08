@@ -9,7 +9,7 @@ MBA (STEM) Business Analytics | Saint Peter’s University, USA |
 | Analytics | Visualization | Enterprise Systems |
 |------------------|-------------------|--------------------|
 | SQL (PostgreSQL) | Power BI | Salesforce, Zendesk, ServiceNow, HRX |
-| Python | Tableau | Workday, Kronos, Concur |
+| Python | Tableau | Workday, Kronos, Concur, Fidelity |
 | Advanced Excel | Dashboard Development | Jira & Confluence |
 | Statistics | Data Visualization & storytelling | MS Office |
 
