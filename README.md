@@ -1,7 +1,7 @@
 Hi, I'm Rableen Kaur Kapoor 👋
 
 MBA (STEM) Business Analytics | Saint Peter’s University, USA | 
-5+ Years Analytics Experience
+5+ Years in Analytics
 ---
 
 ### 📊 Analytics Toolkit
