@@ -1,12 +1,10 @@
 ## Hi, I'm Rableen! 👋
 
-🔷MBA (STEM) Business Analytics Candidate | Saint Peter’s University, New Jersey, United States
+🔷MBA (STEM) Business Analytics Candidate | Saint Peter’s University, NJ, USA
 
-🔷5+ years of Professional Experience in Analytics with global organizations like Accenture, Wipro, and WNS
+🔷5+ years of Professional Experience in Analytics with global organizations - Accenture, Wipro, and WNS
 
-🔷Transforming Data into Actionabl Business Insight
-
-🔷Analytics | Reporting | Decision Support | Process Improvement
+🔷Transforming Data into Actionable Business Insight
 
 ---
 ## 🔧 Tools -
@@ -16,17 +14,15 @@
 
 ## 🧠 Skills -
 
-🔹Business / Data Analysis & Reporting 
+🔹Business / Data Analysis & Reporting (ETR, RCA, FMEA, DTP/SOP, FAQ, MOM, etc)
 
-🔹Dashboard Development 
-
-🔹KPI & SLA Monitoring 
+🔹Dashboard Development, KPI & SLA Monitoring 
 
 🔹Data Validation, Reconciliation & Visualization 
 
 🔹Statistics, Requirements Gathering & UAT 
 
-🔹Stakeholder Communication
+🔹Stakeholder Communication, Process Optimization, Descision Support.
 
 ---
 
