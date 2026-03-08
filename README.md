@@ -11,7 +11,7 @@ MBA (STEM) Business Analytics | Saint Peter’s University, USA |
 | SQL (PostgreSQL) | Power BI | Salesforce |
 | Python | Tableau | Workday |
 | Advanced Excel | Dashboard Development | Jira |
-| Statistics | Data Visualization | MS Office |
+| Statistics | Data Visualization & storytelling | MS Office |
 
 ---
 
