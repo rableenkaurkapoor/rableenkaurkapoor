@@ -31,10 +31,15 @@ MBA (STEM) Business Analytics | Saint Peter’s University, USA |
 
 ### 🔷 Featured Analytics Projects -
 
-🔹 Loan Risk Analytics — PostgreSQL + Power BI dashboard analyzing loan performance and risk segments  
-🔹 Retail Store Sales Analysis — Power BI dashboard analyzing sales trends and store performance  
-🔹 Auto MPG Trend Analysis — Tableau dashboards exploring relationships between engine features and fuel efficiency  
-🔹 Online Food Ordering & Billing System — Python application simulating order processing and billing logic
+### 🔷 Featured Analytics Projects -
+
+🔹 **Power BI:** Retail Store Sales Analysis – Dashboard analyzing sales trends, profit performance, and regional store insights.
+
+🔹 **Tableau:** Auto MPG Trend Analysis – Visual dashboards exploring relationships between engine features and fuel efficiency.
+
+🔹 **Python:** Online Food Ordering & Billing System – Application simulating order processing, menu selection, and automated billing logic.
+
+🔹 **PostgreSQL + Power BI:** Loan Risk Analytics – Data analysis and Power BI dashboard evaluating loan performance and risk segmentation.
 
 ---
 
