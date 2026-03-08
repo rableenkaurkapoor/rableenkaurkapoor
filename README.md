@@ -8,9 +8,9 @@ MBA (STEM) Business Analytics | Saint Peter’s University, USA |
 
 | Analytics | Visualization | Enterprise Systems |
 |------------------|-------------------|--------------------|
-| SQL (PostgreSQL) | Power BI | Salesforce |
-| Python | Tableau | Workday |
-| Advanced Excel | Dashboard Development | Jira |
+| SQL (PostgreSQL) | Power BI | Salesforce, Zendesk, ServiceNow, HRX |
+| Python | Tableau | Workday, Kronos, Concur |
+| Advanced Excel | Dashboard Development | Jira & Confluence |
 | Statistics | Data Visualization & storytelling | MS Office |
 
 ---
@@ -23,7 +23,7 @@ MBA (STEM) Business Analytics | Saint Peter’s University, USA |
 
 🔹 Data Validation, Reconciliation & Visualization 
 
-🔹 Statistics, Requirements Gathering & UAT 
+🔹 Statistics, Requirements Gathering & Sandbox testing / UAT 
 
 🔹 Stakeholder Communication, Process Optimization, Decision Support.
 
