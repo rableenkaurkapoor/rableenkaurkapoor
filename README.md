@@ -1,11 +1,7 @@
-<h2 align="center">Hi, I'm Rableen Kaur Kapoor 👋</h2>
+Hi, I'm Rableen Kaur Kapoor 👋
 
-<p align="center">
-🔷 MBA (STEM) Business Analytics | Saint Peter’s University, NJ, USA (Expected Graduation: May 2026)  
-🔷 5+ Years Professional Analytics Experience – Accenture • Wipro • WNS  
-🔷 Transforming complex data into actionable business insights
-</p>
-
+MBA (STEM) Business Analytics | Saint Peter’s University, USA (Expected May 2026)
+5+ Years Analytics Experience — Accenture • Wipro • WNS
 ---
 
 ### 📊 Analytics Toolkit
