@@ -9,12 +9,12 @@
 🔷Analytics | Reporting | Decision Support | Process Improvement
 
 ---
-## 🔧 Analytics & Data Tools: 
+## 🔧 TOOLS -
 🔹SQL (PostgreSQL) 🔹Power BI 🔹Tableau 🔹Python 🔹Advanced Excel 🔹Salesforce 🔹Workday 🔹Jira 🔹MS Office
 
 ---
 
-## 🧠 Business & Analytics Skills
+## 🧠 SKILLS -
 
 🔹Business / Data Analysis & Reporting 
 
@@ -30,7 +30,7 @@
 
 ---
 
-## 📌 Featured Analytics Projects
+## 📌 FEATURED PROJECTS -
 
 🔹**PostgreSQL + Power BI dashboard analyzing loan performance and risk segments**
 
@@ -42,7 +42,7 @@
 
 ---
 
-## 📫 Connect With Me
+## 📫 CONTACT -
 
 🔷Email: **rableenkaurkapoor@gmail.com**
 
