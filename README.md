@@ -1,47 +1,46 @@
-## Hi, I'm Rableen! 👋
+<h2 align="center">Hi, I'm Rableen Kaur Kapoor 👋</h2>
 
-🔷MBA (STEM) Business Analytics | Saint Peter’s University, NJ, USA (Expected Graduation: May 2026)
-
-🔷5+ years of Professional Experience in Analytics with global organizations - Accenture, Wipro, and WNS
-
-🔷Transforming Data into Actionable Business Insights
-
----
-## 📌 Tools -
-🔹SQL (PostgreSQL) 🔹Power BI 🔹Tableau 🔹Python 🔹Advanced Excel 🔹Salesforce 🔹Workday 🔹Jira 🔹MS Office
+<p align="center">
+🔷 MBA (STEM) Business Analytics | Saint Peter’s University, NJ, USA (Expected Graduation: May 2026)  
+🔷 5+ Years Professional Analytics Experience – Accenture • Wipro • WNS  
+🔷 Transforming complex data into actionable business insights
+</p>
 
 ---
 
-## 📌 Skills -
+### 📊 Analytics Toolkit
 
-🔹Business / Data Analysis & Reporting (ETR, RCA, FMEA, DTP/SOP, FAQ, MOM, etc)
-
-🔹Dashboard Development, KPI & SLA Monitoring 
-
-🔹Data Validation, Reconciliation & Visualization 
-
-🔹Statistics, Requirements Gathering & UAT 
-
-🔹Stakeholder Communication, Process Optimization, Decision Support.
+| Data & Analytics | BI & Visualization | Enterprise Systems |
+|------------------|-------------------|--------------------|
+| SQL (PostgreSQL) | Power BI | Salesforce |
+| Python | Tableau | Workday |
+| Advanced Excel | Dashboard Development | Jira |
+| Statistics | Data Visualization | MS Office |
 
 ---
 
-## 📌 Featured Projects -
+### 🧠 Core Skills
 
-🔹**PostgreSQL + Power BI dashboard analyzing loan performance and risk segments**
-
-🔹**Power BI dashboard analyzing sales trends and store performance**
-
-🔹**Tableau dashboards exploring relationships between engine features and fuel efficiency**
-
-🔹**Python application simulating order processing and billing logic**
+Business & Data Analysis • Data Reporting • Dashboard Development  
+KPI & SLA Monitoring • Data Validation & Reconciliation  
+Root Cause Analysis (RCA) • FMEA • Process Optimization  
+Requirements Gathering • User Acceptance Testing (UAT)  
+Stakeholder Communication • Decision Support  
+Process Documentation (DTP/SOP) • Escalation Tracking • MOM • FAQs
 
 ---
 
-## 📫 Contact -
+### 📈 Featured Analytics Projects
 
-🔷Email: **rableenkaurkapoor@gmail.com**
+🔹 Loan Risk Analytics — PostgreSQL + Power BI dashboard analyzing loan performance and risk segments  
+🔹 Retail Store Sales Analysis — Power BI dashboard analyzing sales trends and store performance  
+🔹 Auto MPG Trend Analysis — Tableau dashboards exploring relationships between engine features and fuel efficiency  
+🔹 Online Food Ordering & Billing System — Python application simulating order processing and billing logic
 
-🔷LinkedIn: **www.linkedin.com/in/rableen-kaur-kapoor**
+---
 
-🔷Portfolio: **https://sites.google.com/view/rableenkaurkapoor/home?authuser=0**
+### 📫 Connect
+
+📧 Email: rableenkaurkapoor@gmail.com  
+🔗 LinkedIn: www.linkedin.com/in/rableen-kaur-kapoor  
+🌐 Portfolio: https://sites.google.com/view/rableenkaurkapoor/home
