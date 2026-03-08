@@ -4,7 +4,7 @@ MBA (STEM) Business Analytics | Saint Peter’s University, USA |
 5+ Years in Analytics
 ---
 
-### 📊 Analytics Toolkit
+### 🔷 Analytics Toolkit -
 
 | Data & Analytics | BI & Visualization | Enterprise Systems |
 |------------------|-------------------|--------------------|
@@ -15,21 +15,21 @@ MBA (STEM) Business Analytics | Saint Peter’s University, USA |
 
 ---
 
-### 🧠 Core Skills
+### 🔷 Core Skills -
 
-• Business / Data Analysis & Reporting (ETR, RCA, FMEA, DTP/SOP, FAQ, MOM, etc)
+🔹 Business / Data Analysis & Reporting (ETR, RCA, FMEA, DTP/SOP, FAQ, MOM, etc)
 
-• Dashboard Development, KPI & SLA Monitoring 
+🔹 Dashboard Development, KPI & SLA Monitoring 
 
-• Data Validation, Reconciliation & Visualization 
+🔹 Data Validation, Reconciliation & Visualization 
 
-• Statistics, Requirements Gathering & UAT 
+🔹 Statistics, Requirements Gathering & UAT 
 
-• Stakeholder Communication, Process Optimization, Decision Support.
+🔹 Stakeholder Communication, Process Optimization, Decision Support.
 
 ---
 
-### 📈 Featured Analytics Projects
+### 🔷 Featured Analytics Projects -
 
 🔹 Loan Risk Analytics — PostgreSQL + Power BI dashboard analyzing loan performance and risk segments  
 🔹 Retail Store Sales Analysis — Power BI dashboard analyzing sales trends and store performance  
@@ -38,7 +38,7 @@ MBA (STEM) Business Analytics | Saint Peter’s University, USA |
 
 ---
 
-### 📫 Connect
+### 🔷 Connect
 
 📧 Email: rableenkaurkapoor@gmail.com  
 🔗 LinkedIn: www.linkedin.com/in/rableen-kaur-kapoor  
