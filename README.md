@@ -7,12 +7,12 @@
 🔷Transforming Data into Actionable Business Insight
 
 ---
-## 🔧 Tools -
+## 📌 Tools -
 🔹SQL (PostgreSQL) 🔹Power BI 🔹Tableau 🔹Python 🔹Advanced Excel 🔹Salesforce 🔹Workday 🔹Jira 🔹MS Office
 
 ---
 
-## 🧠 Skills -
+## 📌 Skills -
 
 🔹Business / Data Analysis & Reporting (ETR, RCA, FMEA, DTP/SOP, FAQ, MOM, etc)
 
