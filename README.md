@@ -1,7 +1,7 @@
 Hi, I'm Rableen Kaur Kapoor 👋
 
 MBA (STEM) Business Analytics | Saint Peter’s University, USA | 
-5+ Years Analytics Experience — Accenture • Wipro • WNS
+5+ Years Analytics Experience at Accenture • Wipro • WNS
 ---
 
 ### 📊 Analytics Toolkit
