@@ -1,7 +1,7 @@
 Hi, I'm Rableen Kaur Kapoor 👋
 
 MBA (STEM) Business Analytics | Saint Peter’s University, USA | 
-5+ Years Analytics Experience at Accenture • Wipro • WNS
+5+ Years Analytics Experience
 ---
 
 ### 📊 Analytics Toolkit
@@ -17,12 +17,15 @@ MBA (STEM) Business Analytics | Saint Peter’s University, USA |
 
 ### 🧠 Core Skills
 
-Business & Data Analysis • Data Reporting • Dashboard Development  
-KPI & SLA Monitoring • Data Validation & Reconciliation  
-Root Cause Analysis (RCA) • FMEA • Process Optimization  
-Requirements Gathering • User Acceptance Testing (UAT)  
-Stakeholder Communication • Decision Support  
-Process Documentation (DTP/SOP) • Escalation Tracking • MOM • FAQs
+• Business / Data Analysis & Reporting (ETR, RCA, FMEA, DTP/SOP, FAQ, MOM, etc)
+
+• Dashboard Development, KPI & SLA Monitoring 
+
+• Data Validation, Reconciliation & Visualization 
+
+• Statistics, Requirements Gathering & UAT 
+
+• Stakeholder Communication, Process Optimization, Decision Support.
 
 ---
 
