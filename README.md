@@ -6,7 +6,7 @@ MBA (STEM) Business Analytics | Saint Peter’s University, USA |
 
 ### 🔷 Analytics Toolkit -
 
-| Analytics | Visualization | Enterprise Systems |
+| **Analytics | Visualization | Enterprise Systems** |
 |------------------|-------------------|--------------------|
 | SQL (PostgreSQL) | Power BI | Salesforce |
 | Python | Tableau | Workday |
