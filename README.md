@@ -1,4 +1,4 @@
-## HI, I'M RABLEEN! 👋
+## Hi, I'm Rableen! 👋
 
 🔷MBA (STEM) Business Analytics Candidate | Saint Peter’s University, New Jersey, United States
 
@@ -9,12 +9,12 @@
 🔷Analytics | Reporting | Decision Support | Process Improvement
 
 ---
-## 🔧 TOOLS -
+## 🔧 Tools -
 🔹SQL (PostgreSQL) 🔹Power BI 🔹Tableau 🔹Python 🔹Advanced Excel 🔹Salesforce 🔹Workday 🔹Jira 🔹MS Office
 
 ---
 
-## 🧠 SKILLS -
+## 🧠 Skills -
 
 🔹Business / Data Analysis & Reporting 
 
@@ -30,7 +30,7 @@
 
 ---
 
-## 📌 FEATURED PROJECTS -
+## 📌 Featured Projects -
 
 🔹**PostgreSQL + Power BI dashboard analyzing loan performance and risk segments**
 
@@ -42,14 +42,10 @@
 
 ---
 
-## 📫 CONTACT -
+## 📫 Contact -
 
 🔷Email: **rableenkaurkapoor@gmail.com**
 
 🔷LinkedIn: **www.linkedin.com/in/rableen-kaur-kapoor**
 
 🔷Portfolio: **https://sites.google.com/view/rableenkaurkapoor/home?authuser=0**
-
----
-Leveraging my professional analytics experience and MBA (STEM) Business Analytics studies in the USA, I am building hands-on analytics projects on GitHub using SQL, Power BI, Python Tableau, etc to get hands on in order to solve real-world business problems.
-
