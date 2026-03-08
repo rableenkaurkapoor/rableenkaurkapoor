@@ -31,11 +31,9 @@ Leveraging my professional analytics experience and MBA (STEM) Business Analytic
 
 ## 📫 Connect With Me
 
-LinkedIn  
-www.linkedin.com/in/rableen-kaur-kapoor
-
-Portfolio 
-Add your portfolio website link here)](https://sites.google.com/view/rableenkaurkapoor/home?authuser=0
-
 Email  
 rableenkaurkapoor@gmail.com
+LinkedIn  
+www.linkedin.com/in/rableen-kaur-kapoor
+Portfolio 
+Add your portfolio website link here)](https://sites.google.com/view/rableenkaurkapoor/home?authuser=0
