@@ -51,7 +51,7 @@ LinkedIn
 www.linkedin.com/in/rableen-kaur-kapoor
 
 Portfolio 
-Add your portfolio website link here)](https://sites.google.com/view/rableenkaurkapoor/home?authuser=0
+https://sites.google.com/view/rableenkaurkapoor/home?authuser=0
 
 ---
 Leveraging my professional analytics experience and MBA (STEM) Business Analytics studies in the USA, I am building hands-on analytics projects on GitHub using SQL, Power BI, Python Tableau, etc to get hands on in order to solve real-world business problems.
