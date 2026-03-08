@@ -31,8 +31,6 @@ MBA (STEM) Business Analytics | Saint Peter’s University, USA |
 
 ### 🔷 Featured Analytics Projects -
 
-### 🔷 Featured Analytics Projects -
-
 🔹 **Power BI:** Retail Store Sales Analysis – Dashboard analyzing sales trends, profit performance, and regional store insights.
 
 🔹 **Tableau:** Auto MPG Trend Analysis – Visual dashboards exploring relationships between engine features and fuel efficiency.
