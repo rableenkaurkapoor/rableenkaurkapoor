@@ -4,7 +4,7 @@
 
 🔷5+ years of Professional Experience in Analytics with global organizations - Accenture, Wipro, and WNS
 
-🔷Transforming Data into Actionable Business Insight
+🔷Transforming Data into Actionable Business Insights
 
 ---
 ## 📌 Tools -
@@ -22,7 +22,7 @@
 
 🔹Statistics, Requirements Gathering & UAT 
 
-🔹Stakeholder Communication, Process Optimization, Descision Support.
+🔹Stakeholder Communication, Process Optimization, Decision Support.
 
 ---
 
