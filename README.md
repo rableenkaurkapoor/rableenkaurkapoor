@@ -1,6 +1,6 @@
 **<h2>Hi, I'm Rableen 👋</h2>**
 
-MB (STEM) Business Analytics | Saint Peter’s University, USA | 
+MBA (STEM) Business Analytics | Saint Peter’s University, USA | 
 5+ Years in Analytics
 ---
 
