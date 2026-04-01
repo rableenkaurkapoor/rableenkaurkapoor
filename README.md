@@ -17,12 +17,12 @@ MBA (STEM) Business Analytics | Saint Peter’s University, USA 🇺🇸 <br>
 ### 🧩 Analytics Toolkit
 <div style="background-color:#f5f7fa; padding:18px; border-radius:12px;">
 
-| Technical Tools | Visualization | Enterprise Systems |
+| Technical Tools | Visualization | Business Tools |
 |------------------|-------------------|--------------------|
-| SQL (PostgreSQL) | Power BI | Salesforce, Zendesk, ServiceNow, HRX |
-| Python | Tableau | Workday, Kronos, Concur, Fidelity |
-| Advanced Excel | Dashboard Development | Jira & Confluence |
-| Statistics | Data Visualization & storytelling | MS Office |
+| SQL (PostgreSQL) | Power BI | Jira, Salesforce, Workday |
+| Python | Tableau | Zendesk, ServiceNow, HRX |
+| Statistics | Dashboard Development | Kronos, Concur, Fidelity |
+|  | Data Visualization & storytelling | Excel (Advanced), MS Office |
 
 </div>
 
