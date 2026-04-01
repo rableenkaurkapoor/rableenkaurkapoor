@@ -19,12 +19,6 @@ MBA (STEM) Business Analytics | Saint Peter’s University, USA 🇺🇸 <br>
 </p>
 </p>
 
-<p align="center">
-<b>Technical:</b> SQL (PostgreSQL), Python, Statistics <br>
-<b>Visualization:</b> Power BI, Tableau, Dashboard Development, Data Visualization & Storytelling <br>
-<b>Business Tools:</b> Jira, Salesforce, Workday, Excel (Advanced), Zendesk, ServiceNow, HRX, Kronos, Concur, Fidelity, MS Office
-</p>
-
 ---
 
 ### 💡 Core Skills
