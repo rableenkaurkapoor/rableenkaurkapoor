@@ -9,7 +9,14 @@ MBA (STEM) Business Analytics | Saint Peter’s University, USA 🇺🇸 <br>
   <img src="https://img.shields.io/badge/Power%20BI-%23F2C811.svg?style=for-the-badge&logo=PowerBI&logoColor=black"/>
   <img src="https://img.shields.io/badge/Tableau-%23E97627.svg?style=for-the-badge&logo=Tableau&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-%230074C1.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Statistics-%234B8BBE.svg?style=for-the-badge&logo=mathworks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Salesforce-%2300A1E0.svg?style=for-the-badge&logo=salesforce&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Workday-%23FF6D00.svg?style=for-the-badge&logo=workday&logoColor=white"/>
   <img src="https://img.shields.io/badge/Excel-%23217346.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Enterprise%20Tools-%236C757D.svg?style=for-the-badge"/>
+</p>
 </p>
 
 <p align="center">
