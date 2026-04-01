@@ -6,18 +6,17 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AI%20%26%20Analytics-%230A66C2.svg?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power%20BI-%23F2C811.svg?style=for-the-badge&logo=PowerBI&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Tableau-%23E97627.svg?style=for-the-badge&logo=Tableau&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-%230074C1.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Statistics-%234B8BBE.svg?style=for-the-badge&logo=mathworks&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Salesforce-%2300A1E0.svg?style=for-the-badge&logo=salesforce&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Workday-%23FF6D00.svg?style=for-the-badge&logo=workday&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Excel-%23217346.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Enterprise%20Tools-%236C757D.svg?style=for-the-badge"/>
-</p>
+  <img src="https://img.shields.io/badge/AI%20%26%20Analytics-%235C4033.svg?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20BI-%23D4A017.svg?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Tableau-%23CC5500.svg?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/SQL-%235C4033.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-%236B8E23.svg?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Statistics-%238B5A2B.svg?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Jira-%235C4033.svg?style=for-the-badge&logo=jira&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Salesforce-%23CC5500.svg?style=for-the-badge&logo=salesforce&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Workday-%23D2691E.svg?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Excel-%236B8E23.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Enterprise%20Tools-%237A5230.svg?style=for-the-badge"/>
 </p>
 
 ---
