@@ -17,17 +17,17 @@ MBA (STEM) Business Analytics | Saint Peter’s University, USA 🇺🇸 <br>
 ### 🧩 Analytics Toolkit
 <div style="background-color:#f5f7fa; padding:20px; border-radius:14px;">
 
-🔹 **Technical Tools**  
+✔ **Technical Tools**  
 SQL (PostgreSQL), Python, Statistics  
 
 <br>
 
-🔹 **Visualization**  
+✔ **Visualization**  
 Power BI, Tableau, Dashboard Development, Data Visualization & Storytelling  
 
 <br>
 
-🔹 **Business Tools**  
+✔ **Business Tools**  
 Jira, Salesforce, Workday, Excel (Advanced), Zendesk, ServiceNow, HRX, Kronos, Concur, Fidelity, MS Office  
 
 </div>
