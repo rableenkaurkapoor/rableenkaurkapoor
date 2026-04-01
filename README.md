@@ -6,18 +6,21 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AI%20%26%20Analytics-990140.svg?style=for-the-badge" alt="Badge: AI & Analytics" />
-  <img src="https://img.shields.io/badge/Power%20BI-CE3C4D.svg?style=for-the-badge&logo=powerbi&logoColor=white" alt="Badge: Power BI" />
-  <img src="https://img.shields.io/badge/Tableau-EC6A41.svg?style=for-the-badge&logo=tableau&logoColor=white" alt="Badge: Tableau" />
-  <img src="https://img.shields.io/badge/SQL-F5A95E.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="Badge: SQL (PostgreSQL)" />
-  <img src="https://img.shields.io/badge/Python-F6D987.svg?style=for-the-badge&logo=python&logoColor=white" alt="Badge: Python" />
-  <img src="https://img.shields.io/badge/Statistics-F6E7A1.svg?style=for-the-badge" alt="Badge: Statistics" />
-  <img src="https://img.shields.io/badge/Jira-F7F7B9.svg?style=for-the-badge&logo=jira&logoColor=white" alt="Badge: Jira" />
-  <img src="https://img.shields.io/badge/Salesforce-DFED93.svg?style=for-the-badge&logo=salesforce&logoColor=white" alt="Badge: Salesforce" />
-  <img src="https://img.shields.io/badge/Workday-A6D69F.svg?style=for-the-badge" alt="Badge: Workday" />
-  <img src="https://img.shields.io/badge/Excel-63BCA0.svg?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Badge: Excel" />
-  <img src="https://img.shields.io/badge/Enterprise%20Tools-3084B7.svg?style=for-the-badge" alt="Badge: Enterprise Tools" />
+
+![Badge: AI & Analytics](https://img.shields.io/badge/AI%20%26%20Analytics-990140.svg?style=for-the-badge)
+![Badge: Power BI](https://img.shields.io/badge/Power%20BI-CE3C4D.svg?style=for-the-badge&logo=powerbi&logoColor=white)
+![Badge: Tableau](https://img.shields.io/badge/Tableau-EC6A41.svg?style=for-the-badge&logo=tableau&logoColor=white)
+![Badge: SQL (PostgreSQL)](https://img.shields.io/badge/SQL-F5A95E.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Badge: Python](https://img.shields.io/badge/Python-F6D987.svg?style=for-the-badge&logo=python&logoColor=white)
+![Badge: Statistics](https://img.shields.io/badge/Statistics-F6E7A1.svg?style=for-the-badge)
+![Badge: Jira](https://img.shields.io/badge/Jira-F7F7B9.svg?style=for-the-badge&logo=jira&logoColor=white)
+![Badge: Salesforce](https://img.shields.io/badge/Salesforce-DFED93.svg?style=for-the-badge&logo=salesforce&logoColor=white)
+![Badge: Workday](https://img.shields.io/badge/Workday-A6D69F.svg?style=for-the-badge)
+![Badge: Excel](https://img.shields.io/badge/Excel-63BCA0.svg?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Badge: Enterprise Tools](https://img.shields.io/badge/Enterprise%20Tools-3084B7.svg?style=for-the-badge)
+
 </p>
+
 
 ---
 
