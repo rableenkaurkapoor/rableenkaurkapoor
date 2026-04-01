@@ -6,17 +6,17 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AI%20%26%20Analytics-%233B2F2F.svg?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power%20BI-%23F4C430.svg?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Tableau-%23E25822.svg?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/SQL-%23006699.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-%235A8F29.svg?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Statistics-%238B4513.svg?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Jira-%23004E89.svg?style=for-the-badge&logo=jira&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Salesforce-%2300A6A6.svg?style=for-the-badge&logo=salesforce&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Workday-%23D2691E.svg?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Excel-%236B8E23.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Enterprise%20Tools-%232F2F2F.svg?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/AI%20%26%20Analytics-990140.svg?style=for-the-badge" alt="Badge: AI & Analytics" />
+  <img src="https://img.shields.io/badge/Power%20BI-CE3C4D.svg?style=for-the-badge&logo=powerbi&logoColor=white" alt="Badge: Power BI" />
+  <img src="https://img.shields.io/badge/Tableau-EC6A41.svg?style=for-the-badge&logo=tableau&logoColor=white" alt="Badge: Tableau" />
+  <img src="https://img.shields.io/badge/SQL-F5A95E.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="Badge: SQL (PostgreSQL)" />
+  <img src="https://img.shields.io/badge/Python-F6D987.svg?style=for-the-badge&logo=python&logoColor=white" alt="Badge: Python" />
+  <img src="https://img.shields.io/badge/Statistics-F6E7A1.svg?style=for-the-badge" alt="Badge: Statistics" />
+  <img src="https://img.shields.io/badge/Jira-F7F7B9.svg?style=for-the-badge&logo=jira&logoColor=white" alt="Badge: Jira" />
+  <img src="https://img.shields.io/badge/Salesforce-DFED93.svg?style=for-the-badge&logo=salesforce&logoColor=white" alt="Badge: Salesforce" />
+  <img src="https://img.shields.io/badge/Workday-A6D69F.svg?style=for-the-badge" alt="Badge: Workday" />
+  <img src="https://img.shields.io/badge/Excel-63BCA0.svg?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Badge: Excel" />
+  <img src="https://img.shields.io/badge/Enterprise%20Tools-3084B7.svg?style=for-the-badge" alt="Badge: Enterprise Tools" />
 </p>
 
 ---
