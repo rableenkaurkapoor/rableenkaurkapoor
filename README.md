@@ -1,10 +1,21 @@
-**<h2>Hi, I'm Rableen 👋</h2>**
+<h1 align="center">Hi, I'm Rableen 👋</h1>
 
-MBA (STEM) Business Analytics | Saint Peter’s University, USA | 
+<p align="center">
+MBA (STEM) Business Analytics | Saint Peter’s University, USA 🇺🇸 <br>
 5+ Years in Analytics
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Power%20BI-%23F2C811.svg?style=for-the-badge&logo=PowerBI&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Tableau-%23E97627.svg?style=for-the-badge&logo=Tableau&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-%230074C1.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Excel-%23217346.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+</p>
+
 ---
 
-### 🔷 Analytics Toolkit -
+### 🧩 Analytics Toolkit
+<div style="background-color:#f5f7fa; padding:18px; border-radius:12px;">
 
 | Technical Tools | Visualization | Enterprise Systems |
 |------------------|-------------------|--------------------|
@@ -13,36 +24,53 @@ MBA (STEM) Business Analytics | Saint Peter’s University, USA |
 | Advanced Excel | Dashboard Development | Jira & Confluence |
 | Statistics | Data Visualization & storytelling | MS Office |
 
----
-
-### 🔷 Core Skills -
-
-🔹 Business / Data Analysis & Reporting (ETR, RCA, FMEA, DTP/SOP, FAQ, MOM, etc)
-
-🔹 Dashboard Development, KPI & SLA Monitoring 
-
-🔹 Data Validation, Reconciliation & Visualization 
-
-🔹 Statistics, Requirements Gathering & Sandbox testing / UAT 
-
-🔹 Stakeholder Communication, Process Optimization, Decision Support.
+</div>
 
 ---
 
-### 🔷 Featured Analytics Projects -
+### 💡 Core Skills
+<div style="background-color:#f5f7fa; padding:18px; border-radius:12px;">
 
-🔹 **Power BI:** Retail Store Sales Analysis – Dashboard analyzing sales trends, profit performance, and regional store insights.
+✔ Business / Data Analysis & Reporting (ETR, RCA, FMEA, DTP/SOP, FAQ, MOM, etc)  
 
-🔹 **Tableau:** Auto MPG Trend Analysis – Visual dashboards exploring relationships between engine features and fuel efficiency.
+✔ Dashboard Development, KPI & SLA Monitoring  
 
-🔹 **Python:** Online Food Ordering & Billing System – Application simulating order processing, menu selection, and automated billing logic.
+✔ Data Validation, Reconciliation & Visualization  
 
-🔹 **PostgreSQL + Power BI:** Loan Risk Analytics – Data analysis and Power BI dashboard evaluating loan performance and risk segmentation.
+✔ Statistics, Requirements Gathering & Sandbox testing / UAT  
+
+✔ Stakeholder Communication, Process Optimization, Decision Support  
+
+</div>
 
 ---
 
-### 🔷 Connect
+### 📊 Featured Analytics Projects
+<div style="background-color:#f5f7fa; padding:18px; border-radius:12px;">
+
+🔹 **Power BI:** Retail Store Sales Analysis – Dashboard analyzing sales trends, profit performance, and regional store insights  
+
+🔹 **Tableau:** Auto MPG Trend Analysis – Visual dashboards exploring relationships between engine features and fuel efficiency  
+
+🔹 **Python:** Online Food Ordering & Billing System – Application simulating order processing, menu selection, and automated billing logic  
+
+🔹 **PostgreSQL + Power BI:** Loan Risk Analytics – Data analysis and Power BI dashboard evaluating loan performance and risk segmentation  
+
+</div>
+
+---
+
+### 🌐 Connect
+<p align="center">
 
 📧 Email: rableenkaurkapoor@gmail.com  
 🔗 LinkedIn: www.linkedin.com/in/rableen-kaur-kapoor  
-🌐 Portfolio: https://sites.google.com/view/rableenkaurkapoor/home
+🌐 Portfolio: https://sites.google.com/view/rableenkaurkapoor/home  
+
+</p>
+
+---
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d6efd,100:5bc0de&height=100&section=footer"/>
+</p>
