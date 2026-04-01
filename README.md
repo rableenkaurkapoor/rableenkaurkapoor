@@ -15,21 +15,27 @@ MBA (STEM) Business Analytics | Saint Peter’s University, USA 🇺🇸 <br>
 ---
 
 ### 🧩 Analytics Toolkit
-<div style="background-color:#f5f7fa; padding:18px; border-radius:12px;">
+<div style="background-color:#f5f7fa; padding:20px; border-radius:14px;">
 
-| Technical Tools | Visualization | Business Tools |
-|------------------|-------------------|--------------------|
-| SQL (PostgreSQL) | Power BI | Jira, Salesforce, Workday, Excel (Advanced) |
-| Python | Tableau | Zendesk, ServiceNow, HRX |
-| Statistics | Dashboard Development | Kronos, Concur, Fidelity |
-|  | Data Visualization & storytelling | MS Office |
+🔹 **Technical Tools**  
+SQL (PostgreSQL), Python, Statistics  
+
+<br>
+
+🔹 **Visualization**  
+Power BI, Tableau, Dashboard Development, Data Visualization & Storytelling  
+
+<br>
+
+🔹 **Business Tools**  
+Jira, Salesforce, Workday, Excel (Advanced), Zendesk, ServiceNow, HRX, Kronos, Concur, Fidelity, MS Office  
 
 </div>
 
 ---
 
 ### 💡 Core Skills
-<div style="background-color:#f5f7fa; padding:18px; border-radius:12px;">
+<div style="background-color:#f5f7fa; padding:20px; border-radius:14px;">
 
 ✔ Business / Data Analysis & Reporting (ETR, RCA, FMEA, DTP/SOP, FAQ, MOM, etc)  
 
@@ -46,7 +52,7 @@ MBA (STEM) Business Analytics | Saint Peter’s University, USA 🇺🇸 <br>
 ---
 
 ### 📊 Featured Analytics Projects
-<div style="background-color:#f5f7fa; padding:18px; border-radius:12px;">
+<div style="background-color:#f5f7fa; padding:20px; border-radius:14px;">
 
 🔹 **Power BI:** Retail Store Sales Analysis – Dashboard analyzing sales trends, profit performance, and regional store insights  
 
