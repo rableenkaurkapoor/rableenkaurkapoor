@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Rableen 👋</h1>
 
 <p align="center">
-MBA (STEM) Business Analytics | Saint Peter’s University, USA 🇺🇸 <br>
-5+ Years in Analytics
+**MBA (STEM) Business Analytics | Saint Peter’s University, USA** 🇺🇸 <br>
+**5+ Years in Analytics**
 </p>
 
 <p align="center">
