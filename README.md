@@ -6,6 +6,7 @@ MBA (STEM) Business Analytics | Saint Peter’s University, USA 🇺🇸 <br>
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/AI%20%26%20Analytics-%230A66C2.svg?style=for-the-badge&logo=openai&logoColor=white"/>
   <img src="https://img.shields.io/badge/Power%20BI-%23F2C811.svg?style=for-the-badge&logo=PowerBI&logoColor=black"/>
   <img src="https://img.shields.io/badge/Tableau-%23E97627.svg?style=for-the-badge&logo=Tableau&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-%230074C1.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
