@@ -84,7 +84,7 @@ Stakeholder Communication • Agile (Jira) • Cross-team Alignment • Data-dri
 
 📧 Email: rableenkaurkapoor@gmail.com  
 🔗 LinkedIn: www.linkedin.com/in/rableen-kaur-kapoor  
-🌐 Portfolio: https://sites.google.com/view/rableenkaurkapoor/home  
+🧩 Portfolio: https://sites.google.com/view/rableenkaurkapoor/home  
 
 </p>
 
