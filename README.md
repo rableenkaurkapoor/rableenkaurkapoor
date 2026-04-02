@@ -24,56 +24,61 @@
 
 <!-- SECTION 1 -->
 <p>
-<span style="background:#F5E6C8;color:black;padding:6px 12px;border-radius:6px;"><b>Data Analysis & Validation</b></span>
+<span style="background:#E6E6FA;color:black;padding:6px 14px;border-radius:8px;"><b>Data Analysis & Validation</b></span>
 </p>
 
 <p>
-<img src="https://img.shields.io/badge/Data%20Analysis-2D3436?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/Data%20Validation-2D3436?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/Data%20Quality-2D3436?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL%20Analysis-2D3436?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/DATA%20ANALYSIS-2D3436?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/DATA%20VALIDATION-2D3436?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/DATA%20QUALITY-2D3436?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL%20ANALYSIS-2D3436?style=for-the-badge&logoColor=white" />
 </p>
+
+<br>
 
 <!-- SECTION 2 -->
 <p>
-<span style="background:#F5E6C8;color:black;padding:6px 12px;border-radius:6px;"><b>Visualization & Reporting</b></span>
+<span style="background:#E6E6FA;color:black;padding:6px 14px;border-radius:8px;"><b>Visualization & Reporting</b></span>
 </p>
 
 <p>
-<img src="https://img.shields.io/badge/Power%20BI-2D3436?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/Tableau-2D3436?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/Data%20Visualization-2D3436?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/KPI%20Dashboards-2D3436?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/POWER%20BI-2D3436?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/TABLEAU-2D3436?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/DATA%20VISUALIZATION-2D3436?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/KPI%20DASHBOARDS-2D3436?style=for-the-badge&logoColor=white" />
 </p>
+
+<br>
 
 <!-- SECTION 3 -->
 <p>
-<span style="background:#F5E6C8;color:black;padding:6px 12px;border-radius:6px;"><b>Analytics & Metrics</b></span>
+<span style="background:#E6E6FA;color:black;padding:6px 14px;border-radius:8px;"><b>Analytics & Metrics</b></span>
 </p>
 
 <p>
-<img src="https://img.shields.io/badge/Data%20Reconciliation-2D3436?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/Trend%20Analysis-2D3436?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/Variance%20Analysis-2D3436?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/Descriptive%20Analytics-2D3436?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/DATA%20RECONCILIATION-2D3436?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/TREND%20ANALYSIS-2D3436?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/VARIANCE%20ANALYSIS-2D3436?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/DESCRIPTIVE%20ANALYTICS-2D3436?style=for-the-badge&logoColor=white" />
 </p>
+
+<br>
 
 <!-- SECTION 4 -->
 <p>
-<span style="background:#F5E6C8;color:black;padding:6px 12px;border-radius:6px;"><b>Business & Process</b></span>
+<span style="background:#E6E6FA;color:black;padding:6px 14px;border-radius:8px;"><b>Business & Process</b></span>
 </p>
 
 <p>
-<img src="https://img.shields.io/badge/Requirements%20Gathering-2D3436?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/REQUIREMENTS%20GATHERING-2D3436?style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/BRD%20%2F%20SOP-2D3436?style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/RCA%20%2F%20FMEA-2D3436?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/UAT%20Testing-2D3436?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/Agile%20(Jira)-2D3436?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/Stakeholder%20Management-2D3436?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/Process%20Improvement-2D3436?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/Decision%20Support-2D3436?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/UAT%20TESTING-2D3436?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/AGILE%20(JIRA)-2D3436?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/STAKEHOLDER%20MANAGEMENT-2D3436?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/PROCESS%20IMPROVEMENT-2D3436?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/DECISION%20SUPPORT-2D3436?style=for-the-badge&logoColor=white" />
 </p>
----
 
 ### 🌐 Connect
 <p align="center">
