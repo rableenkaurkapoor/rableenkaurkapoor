@@ -38,21 +38,6 @@
 
 ---
 
-### 📊 Featured Analytics Projects
-<div style="background-color:#f5f7fa; padding:20px; border-radius:14px;">
-
-🔹 **Power BI:** Retail Store Sales Analysis – Dashboard analyzing sales trends, profit performance, and regional store insights  
-
-🔹 **Tableau:** Auto MPG Trend Analysis – Visual dashboards exploring relationships between engine features and fuel efficiency  
-
-🔹 **Python:** Online Food Ordering & Billing System – Application simulating order processing, menu selection, and automated billing logic  
-
-🔹 **PostgreSQL + Power BI:** Loan Risk Analytics – Data analysis and Power BI dashboard evaluating loan performance and risk segmentation  
-
-</div>
-
----
-
 ### 🌐 Connect
 <p align="center">
 
