@@ -21,21 +21,34 @@
 
 ---
 
-### 💡 Core Skills
-<div style="background-color:#f5f7fa; padding:20px; border-radius:14px;">
+<p align="center">
 
-✔ Business / Data Analysis & Reporting (ETR, RCA, FMEA, DTP/SOP, FAQ, MOM, etc)  
+<span style="background:#6C5CE7;color:white;padding:8px 14px;border-radius:6px;margin:4px;display:inline-block;">DATA ANALYSIS</span>
+<span style="background:#00B894;color:white;padding:8px 14px;border-radius:6px;margin:4px;display:inline-block;">DATA VALIDATION</span>
+<span style="background:#0984E3;color:white;padding:8px 14px;border-radius:6px;margin:4px;display:inline-block;">DATA QUALITY</span>
+<span style="background:#E17055;color:white;padding:8px 14px;border-radius:6px;margin:4px;display:inline-block;">SQL ANALYSIS</span>
 
-✔ Dashboard Development, KPI & SLA Monitoring  
+<span style="background:#FDCB6E;color:black;padding:8px 14px;border-radius:6px;margin:4px;display:inline-block;">POWER BI</span>
+<span style="background:#E84393;color:white;padding:8px 14px;border-radius:6px;margin:4px;display:inline-block;">TABLEAU</span>
+<span style="background:#00CEC9;color:black;padding:8px 14px;border-radius:6px;margin:4px;display:inline-block;">DATA VISUALIZATION</span>
+<span style="background:#6AB04C;color:white;padding:8px 14px;border-radius:6px;margin:4px;display:inline-block;">KPI DASHBOARDS</span>
 
-✔ Data Validation, Reconciliation & Visualization  
+<span style="background:#FF7675;color:white;padding:8px 14px;border-radius:6px;margin:4px;display:inline-block;">DATA RECONCILIATION</span>
+<span style="background:#74B9FF;color:black;padding:8px 14px;border-radius:6px;margin:4px;display:inline-block;">TREND ANALYSIS</span>
+<span style="background:#A29BFE;color:white;padding:8px 14px;border-radius:6px;margin:4px;display:inline-block;">VARIANCE ANALYSIS</span>
+<span style="background:#55EFC4;color:black;padding:8px 14px;border-radius:6px;margin:4px;display:inline-block;">DESCRIPTIVE ANALYTICS</span>
 
-✔ Statistics, Requirements Gathering & Sandbox testing / UAT  
+<span style="background:#2D3436;color:white;padding:8px 14px;border-radius:6px;margin:4px;display:inline-block;">REQUIREMENTS GATHERING</span>
+<span style="background:#636E72;color:white;padding:8px 14px;border-radius:6px;margin:4px;display:inline-block;">BRD / SOP</span>
+<span style="background:#D63031;color:white;padding:8px 14px;border-radius:6px;margin:4px;display:inline-block;">RCA / FMEA</span>
+<span style="background:#00A8FF;color:white;padding:8px 14px;border-radius:6px;margin:4px;display:inline-block;">UAT TESTING</span>
 
-✔ Stakeholder Communication, Process Optimization, Decision Support  
+<span style="background:#F39C12;color:white;padding:8px 14px;border-radius:6px;margin:4px;display:inline-block;">STAKEHOLDER MANAGEMENT</span>
+<span style="background:#8E44AD;color:white;padding:8px 14px;border-radius:6px;margin:4px;display:inline-block;">AGILE (JIRA)</span>
+<span style="background:#16A085;color:white;padding:8px 14px;border-radius:6px;margin:4px;display:inline-block;">PROCESS IMPROVEMENT</span>
+<span style="background:#34495E;color:white;padding:8px 14px;border-radius:6px;margin:4px;display:inline-block;">DECISION SUPPORT</span>
 
-</div>
-
+</p>
 ---
 
 ### 🌐 Connect
