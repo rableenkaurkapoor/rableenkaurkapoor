@@ -26,7 +26,7 @@
 
 ### 📊 Data Analysis & BI  
 <p style="font-size:16px; font-weight:600;">
-ETL Thinking • Data Validation • Data Quality • Reconciliation • SQL Analysis • Insight Generation
+• ETL Thinking • Data Validation • Data Quality • Reconciliation • SQL Analysis • Insight Generation
 </p>
 
 </td>
@@ -34,7 +34,7 @@ ETL Thinking • Data Validation • Data Quality • Reconciliation • SQL Ana
 
 ### 📈 Dashboarding & Visualization  
 <p style="font-size:16px; font-weight:600;">
-Power BI • Tableau • KPI Design • SLA Monitoring • Interactive Reporting • Storytelling with Data
+• Power BI • Tableau • KPI Design • SLA Monitoring • Interactive Reporting • Storytelling with Data
 </p>
 
 </td>
@@ -45,7 +45,7 @@ Power BI • Tableau • KPI Design • SLA Monitoring • Interactive Reporting
 
 ### 🧪 Data Quality Engineering  
 <p style="font-size:16px; font-weight:600;">
-Data Cleaning • Validation Rules • Error Detection • Anomaly Analysis • Data Integrity Assurance
+• Data Cleaning • Validation Rules • Error Detection • Anomaly Analysis • Data Integrity Assurance
 </p>
 
 </td>
@@ -53,7 +53,7 @@ Data Cleaning • Validation Rules • Error Detection • Anomaly Analysis • 
 
 ### 📉 Statistical Thinking  
 <p style="font-size:16px; font-weight:600;">
-Descriptive Analytics • Trend Analysis • Variance Analysis • Business Metrics • Decision Support
+• Descriptive Analytics • Trend Analysis • Variance Analysis • Business Metrics • Decision Support
 </p>
 
 </td>
