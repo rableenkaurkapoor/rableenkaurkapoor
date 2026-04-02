@@ -1,10 +1,10 @@
 <h1 align="center">Hi, I'm Rableen 👋</h1>
 
-<p align="center" <p style="font-size:16px; font-weight:600;">
+<p align="center" style="font-size:28px; font-weight:700;">
 MBA (STEM) Business Analytics | Saint Peter’s University, USA
 </p>
 
-<p align="center" <p style="font-size:16px; font-weight:600;">
+<p align="center" style="font-size:24px; font-weight:600;">
 5+ Years in Analytics
 </p>
 
