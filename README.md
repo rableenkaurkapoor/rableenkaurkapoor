@@ -1,12 +1,7 @@
 <h1 align="center">Hi, I'm Rableen 👋</h1>
 
-<p align="center" style="font-size:28px; font-weight:700;">
-MBA (STEM) Business Analytics | Saint Peter’s University, USA
-</p>
-
-<p align="center" style="font-size:24px; font-weight:600;">
-5+ Years in Analytics
-</p>
+## MBA (STEM) Business Analytics | Saint Peter’s University, USA  
+### 5+ Years in Analytics
 
 <p align="center">
   <img src="https://img.shields.io/badge/AI%20%26%20Analytics-990140.svg?style=for-the-badge" alt="Badge: AI & Analytics" />
