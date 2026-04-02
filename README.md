@@ -64,7 +64,7 @@
 
 ### ⚙️ Business Process  
 <p style="font-size:16px; font-weight:600;">
-Requirements Gathering • BRD / SOP • RCA • FMEA • UAT • Process Improvement
+• Requirements Gathering • BRD / SOP • RCA • FMEA • UAT • Process Improvement
 </p>
 
 </td>
@@ -72,7 +72,7 @@ Requirements Gathering • BRD / SOP • RCA • FMEA • UAT • Process Improv
 
 ### 🤝 Collaboration  
 <p style="font-size:16px; font-weight:600;">
-Stakeholder Communication • Agile (Jira) • Cross-team Alignment • Data-driven Decisions
+• Stakeholder Communication • Agile (Jira) • Cross-team Alignment • Data-driven Decisions
 </p>
 
 </td>
