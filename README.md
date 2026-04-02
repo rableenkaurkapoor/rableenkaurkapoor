@@ -20,34 +20,42 @@
 </p>
 
 ---
+## 💡 Core Skills
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Data%20Analysis-6C5CE7?style=for-the-badge&logo=googleanalytics&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data%20Validation-00B894?style=for-the-badge&logo=checkmarx&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data%20Quality-0984E3?style=for-the-badge&logo=datadog&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL%20Analysis-E17055?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
 
-<span style="background:#6C5CE7;color:white;padding:8px 14px;border-radius:6px;margin:4px;display:inline-block;">DATA ANALYSIS</span>
-<span style="background:#00B894;color:white;padding:8px 14px;border-radius:6px;margin:4px;display:inline-block;">DATA VALIDATION</span>
-<span style="background:#0984E3;color:white;padding:8px 14px;border-radius:6px;margin:4px;display:inline-block;">DATA QUALITY</span>
-<span style="background:#E17055;color:white;padding:8px 14px;border-radius:6px;margin:4px;display:inline-block;">SQL ANALYSIS</span>
+<p align="center">
+  <img src="https://img.shields.io/badge/Power%20BI-FDCB6E?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tableau-E84393?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data%20Visualization-00CEC9?style=for-the-badge&logo=chartdotjs&logoColor=black" />
+  <img src="https://img.shields.io/badge/KPI%20Dashboards-6AB04C?style=for-the-badge&logo=looker&logoColor=white" />
+</p>
 
-<span style="background:#FDCB6E;color:black;padding:8px 14px;border-radius:6px;margin:4px;display:inline-block;">POWER BI</span>
-<span style="background:#E84393;color:white;padding:8px 14px;border-radius:6px;margin:4px;display:inline-block;">TABLEAU</span>
-<span style="background:#00CEC9;color:black;padding:8px 14px;border-radius:6px;margin:4px;display:inline-block;">DATA VISUALIZATION</span>
-<span style="background:#6AB04C;color:white;padding:8px 14px;border-radius:6px;margin:4px;display:inline-block;">KPI DASHBOARDS</span>
+<p align="center">
+  <img src="https://img.shields.io/badge/Data%20Reconciliation-FF7675?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Trend%20Analysis-74B9FF?style=for-the-badge&logo=trendmicro&logoColor=black" />
+  <img src="https://img.shields.io/badge/Variance%20Analysis-A29BFE?style=for-the-badge&logo=googlebigquery&logoColor=white" />
+  <img src="https://img.shields.io/badge/Descriptive%20Analytics-55EFC4?style=for-the-badge&logo=microstrategy&logoColor=black" />
+</p>
 
-<span style="background:#FF7675;color:white;padding:8px 14px;border-radius:6px;margin:4px;display:inline-block;">DATA RECONCILIATION</span>
-<span style="background:#74B9FF;color:black;padding:8px 14px;border-radius:6px;margin:4px;display:inline-block;">TREND ANALYSIS</span>
-<span style="background:#A29BFE;color:white;padding:8px 14px;border-radius:6px;margin:4px;display:inline-block;">VARIANCE ANALYSIS</span>
-<span style="background:#55EFC4;color:black;padding:8px 14px;border-radius:6px;margin:4px;display:inline-block;">DESCRIPTIVE ANALYTICS</span>
+<p align="center">
+  <img src="https://img.shields.io/badge/Requirements%20Gathering-2D3436?style=for-the-badge&logo=notion&logoColor=white" />
+  <img src="https://img.shields.io/badge/BRD%20%2F%20SOP-636E72?style=for-the-badge&logo=readthedocs&logoColor=white" />
+  <img src="https://img.shields.io/badge/RCA%20%2F%20FMEA-D63031?style=for-the-badge&logo=processwire&logoColor=white" />
+  <img src="https://img.shields.io/badge/UAT%20Testing-00A8FF?style=for-the-badge&logo=testrail&logoColor=white" />
+</p>
 
-<span style="background:#2D3436;color:white;padding:8px 14px;border-radius:6px;margin:4px;display:inline-block;">REQUIREMENTS GATHERING</span>
-<span style="background:#636E72;color:white;padding:8px 14px;border-radius:6px;margin:4px;display:inline-block;">BRD / SOP</span>
-<span style="background:#D63031;color:white;padding:8px 14px;border-radius:6px;margin:4px;display:inline-block;">RCA / FMEA</span>
-<span style="background:#00A8FF;color:white;padding:8px 14px;border-radius:6px;margin:4px;display:inline-block;">UAT TESTING</span>
-
-<span style="background:#F39C12;color:white;padding:8px 14px;border-radius:6px;margin:4px;display:inline-block;">STAKEHOLDER MANAGEMENT</span>
-<span style="background:#8E44AD;color:white;padding:8px 14px;border-radius:6px;margin:4px;display:inline-block;">AGILE (JIRA)</span>
-<span style="background:#16A085;color:white;padding:8px 14px;border-radius:6px;margin:4px;display:inline-block;">PROCESS IMPROVEMENT</span>
-<span style="background:#34495E;color:white;padding:8px 14px;border-radius:6px;margin:4px;display:inline-block;">DECISION SUPPORT</span>
-
+<p align="center">
+  <img src="https://img.shields.io/badge/Stakeholder%20Management-F39C12?style=for-the-badge&logo=handshake&logoColor=white" />
+  <img src="https://img.shields.io/badge/Agile%20(Jira)-8E44AD?style=for-the-badge&logo=jira&logoColor=white" />
+  <img src="https://img.shields.io/badge/Process%20Improvement-16A085?style=for-the-badge&logo=slack&logoColor=white" />
+  <img src="https://img.shields.io/badge/Decision%20Support-34495E?style=for-the-badge&logo=googlesheets&logoColor=white" />
+</p>
 </p>
 ---
 
