@@ -27,13 +27,17 @@
 <td>
 
 ### 📊 Data Analysis & BI  
-<sub>ETL Thinking • Data Validation • Data Quality • Reconciliation • SQL Analysis • Insight Generation</sub>
+<p style="font-size:16px; font-weight:600;">
+ETL Thinking • Data Validation • Data Quality • Reconciliation • SQL Analysis • Insight Generation
+</p>
 
 </td>
 <td>
 
 ### 📈 Dashboarding & Visualization  
-<sub>Power BI • Tableau • KPI Design • SLA Monitoring • Interactive Reporting • Storytelling with Data</sub>
+<p style="font-size:16px; font-weight:600;">
+Power BI • Tableau • KPI Design • SLA Monitoring • Interactive Reporting • Storytelling with Data
+</p>
 
 </td>
 </tr>
@@ -42,13 +46,17 @@
 <td>
 
 ### 🧪 Data Quality Engineering  
-<sub>Data Cleaning • Validation Rules • Error Detection • Anomaly Analysis • Data Integrity Assurance</sub>
+<p style="font-size:16px; font-weight:600;">
+Data Cleaning • Validation Rules • Error Detection • Anomaly Analysis • Data Integrity Assurance
+</p>
 
 </td>
 <td>
 
 ### 📉 Statistical Thinking  
-<sub>Descriptive Analytics • Trend Analysis • Variance Analysis • Business Metrics • Decision Support</sub>
+<p style="font-size:16px; font-weight:600;">
+Descriptive Analytics • Trend Analysis • Variance Analysis • Business Metrics • Decision Support
+</p>
 
 </td>
 </tr>
@@ -57,13 +65,17 @@
 <td>
 
 ### ⚙️ Business Process  
-<sub>Requirements Gathering • BRD / SOP • RCA • FMEA • UAT • Process Improvement</sub>
+<p style="font-size:16px; font-weight:600;">
+Requirements Gathering • BRD / SOP • RCA • FMEA • UAT • Process Improvement
+</p>
 
 </td>
 <td>
 
 ### 🤝 Collaboration  
-<sub>Stakeholder Communication • Agile (Jira) • Cross-team Alignment • Data-driven Decisions</sub>
+<p style="font-size:16px; font-weight:600;">
+Stakeholder Communication • Agile (Jira) • Cross-team Alignment • Data-driven Decisions
+</p>
 
 </td>
 </tr>
