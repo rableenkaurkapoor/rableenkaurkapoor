@@ -22,63 +22,52 @@
 ---
 ## 💡 Core Skills
 
-<!-- SECTION 1 -->
-<p>
-<span style="background:#E6E6FA;color:black;padding:6px 14px;border-radius:8px;"><b>Data Analysis & Validation</b></span>
-</p>
+<table>
+<tr>
+<td>
 
-<p>
-<img src="https://img.shields.io/badge/DATA%20ANALYSIS-2D3436?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/DATA%20VALIDATION-2D3436?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/DATA%20QUALITY-2D3436?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL%20ANALYSIS-2D3436?style=for-the-badge&logoColor=white" />
-</p>
+### 📊 Data Analysis & BI  
+<sub>ETL Thinking • Data Validation • Data Quality • Reconciliation • SQL Analysis • Insight Generation</sub>
 
-<br>
+</td>
+<td>
 
-<!-- SECTION 2 -->
-<p>
-<span style="background:#E6E6FA;color:black;padding:6px 14px;border-radius:8px;"><b>Visualization & Reporting</b></span>
-</p>
+### 📈 Dashboarding & Visualization  
+<sub>Power BI • Tableau • KPI Design • SLA Monitoring • Interactive Reporting • Storytelling with Data</sub>
 
-<p>
-<img src="https://img.shields.io/badge/POWER%20BI-2D3436?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/TABLEAU-2D3436?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/DATA%20VISUALIZATION-2D3436?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/KPI%20DASHBOARDS-2D3436?style=for-the-badge&logoColor=white" />
-</p>
+</td>
+</tr>
 
-<br>
+<tr>
+<td>
 
-<!-- SECTION 3 -->
-<p>
-<span style="background:#E6E6FA;color:black;padding:6px 14px;border-radius:8px;"><b>Analytics & Metrics</b></span>
-</p>
+### 🧪 Data Quality Engineering  
+<sub>Data Cleaning • Validation Rules • Error Detection • Anomaly Analysis • Data Integrity Assurance</sub>
 
-<p>
-<img src="https://img.shields.io/badge/DATA%20RECONCILIATION-2D3436?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/TREND%20ANALYSIS-2D3436?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/VARIANCE%20ANALYSIS-2D3436?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/DESCRIPTIVE%20ANALYTICS-2D3436?style=for-the-badge&logoColor=white" />
-</p>
+</td>
+<td>
 
-<br>
+### 📉 Statistical Thinking  
+<sub>Descriptive Analytics • Trend Analysis • Variance Analysis • Business Metrics • Decision Support</sub>
 
-<!-- SECTION 4 -->
-<p>
-<span style="background:#E6E6FA;color:black;padding:6px 14px;border-radius:8px;"><b>Business & Process</b></span>
-</p>
+</td>
+</tr>
 
-<p>
-<img src="https://img.shields.io/badge/REQUIREMENTS%20GATHERING-2D3436?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/BRD%20%2F%20SOP-2D3436?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/RCA%20%2F%20FMEA-2D3436?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/UAT%20TESTING-2D3436?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/AGILE%20(JIRA)-2D3436?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/STAKEHOLDER%20MANAGEMENT-2D3436?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/PROCESS%20IMPROVEMENT-2D3436?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/DECISION%20SUPPORT-2D3436?style=for-the-badge&logoColor=white" />
-</p>
+<tr>
+<td>
+
+### ⚙️ Business Process  
+<sub>Requirements Gathering • BRD / SOP • RCA • FMEA • UAT • Process Improvement</sub>
+
+</td>
+<td>
+
+### 🤝 Collaboration  
+<sub>Stakeholder Communication • Agile (Jira) • Cross-team Alignment • Data-driven Decisions</sub>
+
+</td>
+</tr>
+</table>
 
 ### 🌐 Connect
 <p align="center">
