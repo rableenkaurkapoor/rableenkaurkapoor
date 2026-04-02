@@ -87,9 +87,3 @@
 🧩 Portfolio: https://sites.google.com/view/rableenkaurkapoor/home  
 
 </p>
-
----
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d6efd,100:5bc0de&height=100&section=footer"/>
-</p>
