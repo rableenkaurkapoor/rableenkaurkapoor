@@ -32,16 +32,6 @@
 <tr>
 <td>
 
-### 📉 Statistical Thinking  
-<p style="font-size:16px; font-weight:600;">
-• Descriptive Analytics • Trend Analysis • Variance Analysis • Business Metrics • Decision Support
-</p>
-
-</td>
-</tr>
-
-<tr>
-<td>
 
 ### ⚙️ Business Process and Collabration
 <p style="font-size:16px; font-weight:600;">
@@ -53,6 +43,19 @@
 
 <tr>
 <td>
+
+### 📉 Statistical Thinking  
+<p style="font-size:16px; font-weight:600;">
+• Descriptive Analytics • Trend Analysis • Variance Analysis • Business Metrics • Decision Support
+</p>
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+
 
 ### 🌐 Connect
 <p align="center">
