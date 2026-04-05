@@ -26,7 +26,7 @@
 
 ### Data Analysis, Dashboard & Visualization:
 <p style="font-size:16px; font-weight:600;">
-• Power BI • Tableau • KPI Design • SLA Monitoring • Interactive Reporting • Storytelling with Data • ETL Thinking • Data Cleaning and Validation • Data Quality • Reconciliation • SQL Analysis • Insight Generation • Descriptive Analytics 
+• KPI Design • SLA Monitoring • Interactive Reporting • Storytelling • ETL Thinking • Data Cleaning and Validation • Data Quality • Reconciliation • Insight Generation • Descriptive Analytics • Trend Analysis 
 </p>
 
 <tr>
@@ -35,7 +35,7 @@
 
 ### Business Process and Collabration:
 <p style="font-size:16px; font-weight:600;">
-• Requirements Gathering • BRD / SOP • RCA • FMEA • UAT • Process Improvement • Stakeholder Communication • Agile (Jira) • Cross-team Alignment • Data-driven Decisions • Variance Analysis • Business Metrics • Decision Support • Trend Analysis 
+• Requirements Gathering • BRD / SOP • RCA • FMEA • UAT • Process Improvement • Stakeholder Communication • Cross-team Alignment • Data-driven Decisions • Variance Analysis • Business Metrics • Decision Support
 </p>
 
 </td>
