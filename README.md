@@ -26,18 +26,10 @@
 
 ### 📊 Data Analysis, Dashboarding & Visualization 
 <p style="font-size:16px; font-weight:600;">
-• Power BI • Tableau • KPI Design • SLA Monitoring • Interactive Reporting • Storytelling with Data • ETL Thinking • Data Validation • Data Quality • Reconciliation • SQL Analysis • Insight Generation
+• Power BI • Tableau • KPI Design • SLA Monitoring • Interactive Reporting • Storytelling with Data • ETL Thinking • Data Cleaning and Validation • Data Quality • Reconciliation • SQL Analysis • Insight Generation
 </p>
 
 <tr>
-<td>
-
-### 🧪 Data Quality Engineering  
-<p style="font-size:16px; font-weight:600;">
-• Data Cleaning • Validation Rules • Error Detection • Anomaly Analysis • Data Integrity Assurance
-</p>
-
-</td>
 <td>
 
 ### 📉 Statistical Thinking  
@@ -58,7 +50,9 @@
 
 </td>
 </tr>
-</table>
+
+<tr>
+<td>
 
 ### 🌐 Connect
 <p align="center">
