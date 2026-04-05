@@ -24,21 +24,10 @@
 <tr>
 <td>
 
-### 📊 Data Analysis & BI  
+### 📊 Data Analysis, Dashboarding & Visualization 
 <p style="font-size:16px; font-weight:600;">
-• ETL Thinking • Data Validation • Data Quality • Reconciliation • SQL Analysis • Insight Generation
+• Power BI • Tableau • KPI Design • SLA Monitoring • Interactive Reporting • Storytelling with Data • ETL Thinking • Data Validation • Data Quality • Reconciliation • SQL Analysis • Insight Generation
 </p>
-
-</td>
-<td>
-
-### 📈 Dashboarding & Visualization  
-<p style="font-size:16px; font-weight:600;">
-• Power BI • Tableau • KPI Design • SLA Monitoring • Interactive Reporting • Storytelling with Data
-</p>
-
-</td>
-</tr>
 
 <tr>
 <td>
@@ -62,17 +51,9 @@
 <tr>
 <td>
 
-### ⚙️ Business Process  
+### ⚙️ Business Process and Collabration
 <p style="font-size:16px; font-weight:600;">
-• Requirements Gathering • BRD / SOP • RCA • FMEA • UAT • Process Improvement
-</p>
-
-</td>
-<td>
-
-### 🤝 Collaboration  
-<p style="font-size:16px; font-weight:600;">
-• Stakeholder Communication • Agile (Jira) • Cross-team Alignment • Data-driven Decisions
+• Requirements Gathering • BRD / SOP • RCA • FMEA • UAT • Process Improvement • Stakeholder Communication • Agile (Jira) • Cross-team Alignment • Data-driven Decisions
 </p>
 
 </td>
