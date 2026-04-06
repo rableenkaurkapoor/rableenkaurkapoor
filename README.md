@@ -33,7 +33,7 @@
 <td>
 
 
-### Business Process and Collabration:
+### Business Process and Collaboration:
 <p style="font-size:16px; font-weight:600;">
 • Requirements Gathering • BRD / SOP • RCA • FMEA • UAT • Process Improvement • Stakeholder Communication • Cross-team Alignment • Data-driven Decisions • Variance Analysis • Business Metrics • Decision Support
 </p>
