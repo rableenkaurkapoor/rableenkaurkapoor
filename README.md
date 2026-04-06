@@ -29,6 +29,9 @@
 • KPI Design • SLA Monitoring • Interactive Reporting • Storytelling • ETL Thinking • Data Cleaning and Validation • Data Quality • Reconciliation • Insight Generation • Descriptive Analytics • Trend Analysis 
 </p>
 
+</td>
+</tr>
+
 <tr>
 <td>
 
