@@ -24,7 +24,7 @@
 <tr>
 <td>
 
-### Data Analysis, Dashboard & Visualization:
+### Analytics and Dasboarding:
 <p style="font-size:16px; font-weight:600;">
 • KPI Design • SLA Monitoring • Interactive Reporting • Storytelling • ETL Thinking • Data Cleaning and Validation • Data Quality • Reconciliation • Insight Generation • Descriptive Analytics • Trend Analysis 
 </p>
